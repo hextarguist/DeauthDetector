@@ -1,6 +1,6 @@
 // This software is licensed under the MIT License.
 // See the license file for details.
-// For more details visit github.com/spacehuhn/DeauthDetector
+// For more details visit github.com/hextarguist/DeauthDetector
 
 // include necessary libraries
 #include <ESP8266WiFi.h>
